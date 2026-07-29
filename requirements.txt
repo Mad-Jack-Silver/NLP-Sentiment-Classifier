@@ -1,0 +1,13 @@
+transformers>=4.44.2
+datasets>=2.21.0
+torch>=2.4.0
+scikit-learn>=1.8.0
+pandas>=2.2.0
+numpy>=1.26.0
+streamlit>=1.38.0
+matplotlib>=3.9.2
+seaborn>=0.13.2
+joblib>=1.4.2
+pytest>=8.3.2
+tqdm>=4.66.5
+accelerate>=1.1.0
